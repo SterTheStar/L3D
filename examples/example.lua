@@ -4,7 +4,7 @@ local vec3 = L3D.math.vec3
 local mat4 = L3D.math.mat4
 local input = L3D.core.input
 
-local win = L3D.core.window.new(1024, 768, "L3D Engine - Free Cam & HUD Support")
+local win = L3D.core.window.new(1024, 768, "L3D - OpenGL")
 local gl = L3D.core.gl
 
 -- Initial Viewport Setup
